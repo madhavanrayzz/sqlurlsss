@@ -1,0 +1,6 @@
+https://www.bynder.com/getgeo.php?v=
+https://www.bynder.com/greenhouse.php?fq=
+https://www.bynder.com/index.php?p=
+http://www.bynder.com/news.php?id=
+http://www.bynder.com:80/news.php?id=
+
